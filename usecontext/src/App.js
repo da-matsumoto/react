@@ -1,12 +1,12 @@
-import { TextProvider } from "./TextProvider";
+import { CountContext, CountProvider } from "./CountProvider";
 import { First } from "./First";
 
 export default function App() {
   return (
     <div className="App">
-      <TextProvider>
+      <CountProvider>
         <First />
-      </TextProvider>
+      </CountProvider>
     </div>
   );
 }
