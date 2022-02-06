@@ -2,13 +2,13 @@
   "todos": [
     {
       "id": 1,
-      "content": "Create React appをインストールする",
-      "done": true
+      "content": "Chakra UIをインストールする",
+      "done": "done"
     },
     {
       "id": 2,
       "content": "JSON Server仮のAPIを作成する",
-      "done": false
+      "done": "done"
     },
     {
       "id": 1,
@@ -18,12 +18,7 @@
     {
       "content": "useRefの使い方をを確認する",
       "id": "01FV4B8CY0S4EZ35N74SFBN2M9",
-      "done": false
-    },
-    {
-      "content": "淡路町に向かう",
-      "id": "01FV4BGF2NN8KKP4627F4S23R4",
-      "done": false
+      "done": "done"
     }
   ]
 }
